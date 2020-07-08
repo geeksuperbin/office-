@@ -15,8 +15,8 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#f8d762",
-    "navigationBarTitleText": "我的本本",
+    "navigationBarBackgroundColor": "#C9B0A8",
+    "navigationBarTitleText": "任务清单",
     "navigationBarTextStyle":"black"
   },
   "style": "v2",
@@ -24,7 +24,7 @@
   "tabBar": {
     "color": "#000000",
     "selectedColor": "#fff",
-    "backgroundColor": "#f8d762",
+    "backgroundColor": "#C9B0A8",
     "list": [
       {
       "pagePath": "pages/index/index",

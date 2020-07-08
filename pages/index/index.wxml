@@ -1,10 +1,15 @@
 <view class="datu">
    <!-- 作者QQ：1281664368 -->
-  <image mode="widthFix" src="https://s1.ax1x.com/2020/06/17/NVqi1P.png" />
 </view>
 <view class="index">
   <view class="jizhang_book">
-    <navigator url="/pages/jizhang/jizhang_index"><text  class="iconfont bluef iconziyuan160"></text><text class="text">小记账本</text>
+
+  <navigator url=""><text  class="iconfont bluef iconziyuan160"></text><text class="text">清单管理</text>
+      <text  class="iconfont iconyou"></text>
+  </navigator>
+
+
+    <!-- <navigator url="/pages/jizhang/jizhang_index"><text  class="iconfont bluef iconziyuan160"></text><text class="text">小记账本1</text>
     <text  class="iconfont iconyou"></text>
     </navigator>
   </view>
@@ -36,7 +41,7 @@
   <view class="riji_book">
   <navigator url="/pages/Haderblast/Haderblast_index"><text  class="iconfont zi size icondanao"></text><text class="text">头脑大爆炸</text>
    <text  class="iconfont iconyou"></text>
-  </navigator>
+  </navigator> -->
   </view>
 </view>
 <!-- 作者:宋义攀 -->
